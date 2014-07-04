@@ -1,3 +1,4 @@
+/* @pjs preload = "world-political-map-2000px.jpg";*/
 PImage b;
 Point NewDelhi;
 Point Istanbul;
